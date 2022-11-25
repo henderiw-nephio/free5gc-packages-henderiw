@@ -23,4 +23,4 @@ info:
 pipeline:
   mutators:
   - image: gcr.io/jbelamaric-public/nephio-upf-ipam-fn:latest
-  - image: gcr.io/jbelamaric-public/nad-inject-fn:latest
+  - image: docker.io/yndd/nad-inject-fn:latest
